@@ -1,1 +1,1 @@
-# twilio-flex-wavesurfer
+# twilio-flex-wavesurfer.js
